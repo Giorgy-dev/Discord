@@ -1,0 +1,2 @@
+# Discord
+All about discord
