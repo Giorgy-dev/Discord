@@ -1,2 +1,2 @@
 # Discord
-All about discord
+It contains all about my discord
